@@ -1,5 +1,5 @@
 # Blockchain-Python
-Blockchain In Python
+A simple example of blockchain in Python
 
 <h2>Setup and Usage</h2>
 	
